@@ -1,0 +1,16 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"test.test.new": {
+			"animation_length": 2.16,
+			"bones": {
+				"bone": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"2.16": [0, 8100, 0]
+					}
+				}
+			}
+		}
+	}
+}
